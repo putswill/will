@@ -26,8 +26,8 @@ Siga os passos abaixo!
 > apt install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/putswill/sadstation.git
-> cd sadstation
+> git clone https://github.com/putswill/will.git
+> cd will
 > bash install.sh
 ```
 
